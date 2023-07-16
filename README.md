@@ -1,2 +1,2 @@
 # Games
-This is a repository for the video games made by me
+This is a repository for the video games I have made.
